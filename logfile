@@ -1,0 +1,111 @@
+
+Oct  1 18:55: IMCOMBINE
+  combine = average, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+          bias0001.fits
+          bias0002.fits
+          bias0003.fits
+          bias0004.fits
+          bias0005.fits
+          bias0006.fits
+          bias0007.fits
+          bias0008.fits
+          bias0009.fits
+          bias0010.fits
+          bias0011.fits
+          bias0012.fits
+          bias0013.fits
+          bias0014.fits
+          bias0015.fits
+          bias0016.fits
+
+  Output image = Zero, ncombine = 16
+bias0001.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0001.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.946
+bias0002.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0002.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.874
+bias0003.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0003.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.906
+bias0004.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0004.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.996
+bias0005.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0005.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.927
+bias0006.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0006.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.88
+bias0007.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0007.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.852
+bias0008.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0008.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.003
+bias0009.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0009.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.316
+bias0010.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0010.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.149
+bias0011.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0011.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.046
+bias0012.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0012.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.045
+bias0013.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0013.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.137
+bias0014.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0014.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.253
+bias0015.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0015.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.291
+bias0016.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+bias0016.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1056.37
+flat0001.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+flat0001.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1121.709
+Zero: Oct  1 19:03 Trim data section is [265:560,1:900]
+Zero: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1055.027
+flat0001.fits: Oct  1 19:03 Zero level correction image is Zero
+flat0002.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+flat0002.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1121.66
+flat0002.fits: Oct  1 19:03 Zero level correction image is Zero
+flat0003.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+flat0003.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1121.109
+flat0003.fits: Oct  1 19:03 Zero level correction image is Zero
+flat0004.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+flat0004.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1120.946
+flat0004.fits: Oct  1 19:03 Zero level correction image is Zero
+flat0005.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+flat0005.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1121.191
+flat0005.fits: Oct  1 19:03 Zero level correction image is Zero
+lamp0001.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+lamp0001.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1074.34
+lamp0001.fits: Oct  1 19:03 Zero level correction image is Zero
+lamp0002.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+lamp0002.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1065.06
+lamp0002.fits: Oct  1 19:03 Zero level correction image is Zero
+lamp0003.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+lamp0003.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1069.525
+lamp0003.fits: Oct  1 19:03 Zero level correction image is Zero
+spec0001.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+spec0001.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1064.731
+spec0001.fits: Oct  1 19:03 Zero level correction image is Zero
+spec0002.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+spec0002.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1064.436
+spec0002.fits: Oct  1 19:03 Zero level correction image is Zero
+spec0003.fits: Oct  1 19:03 Trim data section is [265:560,1:900]
+spec0003.fits: Oct  1 19:03 Overscan section is [600:890,1:900] with mean=1064.814
+spec0003.fits: Oct  1 19:03 Zero level correction image is Zero
+
+Oct  1 19:05: IMCOMBINE
+  combine = average, scale = mode, zero = none, weight = none
+  reject = crreject, mclip = yes, nkeep = 1
+  rdnoise = rdnoise, gain = gain, snoise = 0., hsigma = 3.
+  blank = 1.
+                Images     Mode Rdnoise   Gain  Scale
+          flat0001.fits  297.27      8.   4.65  0.995
+          flat0002.fits  290.13      8.   4.65  1.020
+          flat0003.fits  296.98      8.   4.65  0.996
+          flat0004.fits  300.98      8.   4.65  0.983
+          flat0005.fits   293.9      8.   4.65  1.007
+
+  Output image = Flat, ncombine = 5
+lamp0001.fits: Oct  1 19:18 Flat field image is resp with scale=1.
+lamp0002.fits: Oct  1 19:18 Flat field image is resp with scale=1.
+lamp0003.fits: Oct  1 19:18 Flat field image is resp with scale=1.
+spec0001.fits: Oct  1 19:18 Flat field image is resp with scale=1.
+spec0002.fits: Oct  1 19:18 Flat field image is resp with scale=1.
+spec0003.fits: Oct  1 19:18 Flat field image is resp with scale=1.

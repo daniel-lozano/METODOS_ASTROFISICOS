@@ -1,0 +1,12 @@
+48LibARCAr.fits 
+48LibARCNe.fits 
+48LibARCXe.fits
+ 
+# lamparas de calibracion de Argon, Neon y Xenon, respectivamente
+
+48LibSPEC1.fits
+48LibSPEC2.fits
+48LibSPEC3.fits
+
+#espectros
+
